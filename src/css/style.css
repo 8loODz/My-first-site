@@ -1,0 +1,119 @@
+body {
+    font-family: Pacifico;
+}
+
+div.main {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+    border-bottom: 2px solid red;
+    padding-bottom: 10px;
+}
+
+.head-menu {
+    margin-top: 10px;
+}
+
+.head-menu-link {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.head-menu-link:hover {
+    color: red;
+}
+
+.head-button-write {
+    margin-top: 15px;
+}
+
+section.basic-about {
+    display: flex;
+    text-align: center;
+    margin-bottom: 80px;
+
+}
+
+.basic-about-me {
+    width: 600px;
+    margin-left: 60px;
+}
+
+section.basic-aducation {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+
+section.basic-job {
+    display: flex;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.basic-job-exp {
+    margin-left: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+section.basic-hobby {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+
+.basic-hobby-life {
+    margin-right: 40px;
+}
+
+.basic-hobby-photo {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+section.basic-way {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+
+.basic-way-frontend {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+div.contacts {
+    display: flex;
+    justify-content: center;
+    border-top: 2px solid red;
+    
+}
+
+.contacts-mobile-link {
+    text-decoration: none;
+    color: red;
+}
+
+.contacts-mobile-link:hover {
+    color: black;
+}
+
+div.start {
+    text-align: center;
+}
+
+.start-up {
+    text-decoration: none;
+    color: black
+}
+
+.start-up:hover {
+    color: red;
+}
